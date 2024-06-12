@@ -1,0 +1,19 @@
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all .log files
+*.log
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore all files in the /node_modules directory
+node_modules/
+
+# Ignore the .env file
+.env
+
+# Ignore the __pycache__ directory
+__pycache__/
+
